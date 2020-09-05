@@ -6,7 +6,7 @@ This project evolves the use of webpack to create the client build via webpack. 
 
 This app uses following tech. to work properly:
 
-* [javascript] - Client Side js programming.
+* [Javascript] - Client Side js programming.
 * [NodeJS] - Global system node installation.
 * [WebPack] - WebPack global installation and in repo as well.
 
@@ -18,8 +18,8 @@ This requires [Node.js](https://nodejs.org/) any stable version +6 to run.
 Install the dependencies and devDependencies and run the watcher.
 
 ```sh
-$ npm install s
-$ npm start
+npm install
+npm start
 ```
 
 ### Development
